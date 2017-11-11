@@ -1,0 +1,19 @@
+{
+  "name": "scott",
+  "version": "1.0.0",
+  "description": "Hangman game using constructor functions - node and a little npm inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sphotoman/Hangman-Cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sphotoman/Hangman-Cli/issues"
+  },
+  "homepage": "https://github.com/sphotoman/Hangman-Cli#readme"
+}
